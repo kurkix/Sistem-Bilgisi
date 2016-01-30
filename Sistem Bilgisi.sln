@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistem Bilgisi", "oyundenemesi1\Sistem Bilgisi.csproj", "{7DB1188F-9DDF-493A-ADBB-C1DF35F3F4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DB1188F-9DDF-493A-ADBB-C1DF35F3F4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB1188F-9DDF-493A-ADBB-C1DF35F3F4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB1188F-9DDF-493A-ADBB-C1DF35F3F4EE}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{7DB1188F-9DDF-493A-ADBB-C1DF35F3F4EE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB1188F-9DDF-493A-ADBB-C1DF35F3F4EE}.Release|Default.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal

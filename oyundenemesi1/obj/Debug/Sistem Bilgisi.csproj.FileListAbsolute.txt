@@ -1,0 +1,44 @@
+C:\Users\Burak\documents\visual studio 2015\Projects\oyundenemesi1\oyundenemesi1\obj\Debug\Sistem Bilgisi.csprojResolveAssemblyReference.cache
+C:\Users\Burak\documents\visual studio 2015\Projects\oyundenemesi1\oyundenemesi1\obj\Debug\oyundenemesi1.Form1.resources
+C:\Users\Burak\documents\visual studio 2015\Projects\oyundenemesi1\oyundenemesi1\obj\Debug\Sistem Bilgisi.csproj.GenerateResource.Cache
+C:\Users\Burak\documents\visual studio 2015\Projects\oyundenemesi1\oyundenemesi1\obj\Debug\oyundenemesi1.Properties.Resources.resources
+C:\Users\Burak\documents\visual studio 2015\Projects\oyundenemesi1\oyundenemesi1\obj\Debug\Sistem Bilgisi.exe.manifest
+C:\Users\Burak\documents\visual studio 2015\Projects\oyundenemesi1\oyundenemesi1\obj\Debug\Sistem Bilgisi.application
+C:\Users\Burak\documents\visual studio 2015\Projects\oyundenemesi1\oyundenemesi1\obj\Debug\Sistem Bilgisi.exe
+C:\Users\Burak\documents\visual studio 2015\Projects\oyundenemesi1\oyundenemesi1\obj\Debug\Sistem Bilgisi.pdb
+C:\Users\Burak\documents\visual studio 2015\Projects\oyundenemesi1\oyundenemesi1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Burak\documents\visual studio 2015\Projects\oyundenemesi1\oyundenemesi1\obj\Debug\Sistem Bilgisi.csproj.ResolveComReference.cache
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Sistem Bilgisi.exe.config
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Sistem Bilgisi.exe.manifest
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Sistem Bilgisi.application
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Sistem Bilgisi.exe
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Sistem Bilgisi.pdb
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.CSharp.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.Diagnostics.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.Direct3D.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.DirectDraw.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.DirectInput.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.DirectPlay.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.DirectSound.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\System.Data.DataSetExtensions.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\System.Data.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\System.Deployment.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\System.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\System.Drawing.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\System.Management.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\System.Net.Http.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\System.Windows.Forms.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\System.Xml.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\System.Xml.Linq.dll
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.xml
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.Diagnostics.xml
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.Direct3D.xml
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.DirectDraw.xml
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.DirectInput.xml
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.DirectPlay.xml
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\oyundenemesi1\oyundenemesi1\bin\Microsoft.DirectX.DirectSound.xml
